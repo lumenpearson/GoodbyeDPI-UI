@@ -1,61 +1,63 @@
 # GoodbyeDPI UI
 
-Добро пожаловать в GoodbyeDPI UI! Это пользовательский интерфейс для проектов [goodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) и [zapret](https://github.com/bol-van/zapret)
+Welcome to **GoodbyeDPI UI** — a user-friendly interface for managing the [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) and [Zapret](https://github.com/bol-van/zapret) projects. This handy tool makes it super easy to tweak DPI settings and run applications from the system tray.
 
-## Описание
+## 📝 Overview
 
-GoodbyeDPI UI предоставляет удобный графический интерфейс для управления GoodbyeDPI и zapret. С его помощью вы можете легко изменять настройки DPI и запускать приложение в трее.
+**GoodbyeDPI UI** simplifies the interaction with GoodbyeDPI and Zapret by offering a clean, intuitive interface for managing settings. You can quickly pick regions 🌍, adjust DNS configurations, and start or stop processes with just a few clicks.
 
-## Установка
+## 💻 Installation
 
-> [!IMPORTANT]
-> Руководство по установке  теперь находиться на [сайте GoodbyeDPI UI](https://storik4pro.github.io/)
+> **Heads up!**  
+> For the full installation guide, check out our [official GoodbyeDPI UI documentation](https://goodbyedpi-ui.vercel.app/).
 
-### Требования
+### 📋 System Requirements
 
-- Windows 10 64bit build 15063 или выше
+- Windows 10 64-bit (version 15063 or higher)
 
->[!IMPORTANT]
->На Windows 10 версии младше 1809 функция "Просмотр вывода goodbyeDPI" не работает 
+> **Note:**  
+> The "View GoodbyeDPI Output" feature is not supported on Windows 10 versions lower than 1809.
 
-### Шаги установки
+### 🚀 Installation Steps
 
-1. Скачайте последнюю версию goodbyeDPI UI используя [страницу релизов](https://github.com/Storik4pro/goodbyeDPI-UI/releases)
-2. Выключите антивирус
-3. Установите goodbyeDPI UI
-4. Добавьте файл goodbyeDPI.exe в список исключений вашего антивируса
-5. Включите антивирус
-6. Поздравляем! Вы завершили установку!
+1. Download the latest release of GoodbyeDPI UI from our [Releases page](https://github.com/Storik4pro/goodbyeDPI-UI/releases).
+2. Temporarily disable your antivirus software 🛡️.
+3. Run the GoodbyeDPI UI installer.
+4. Add `GoodbyeDPI.exe` to your antivirus exceptions list.
+5. Re-enable your antivirus software.
+6. 🎉 Congrats! You’re all set up and ready to go.
 
-## Использование
-![image](https://github.com/user-attachments/assets/3145f2a0-22fd-4b5b-a00e-b54901d2870a)
-![image](https://github.com/user-attachments/assets/fb73530d-b20c-4221-88da-595cfc6a6f3f)
-![image](https://github.com/user-attachments/assets/5d7905d7-6e18-4c1f-8e26-4808da1b5e05)
-![image](https://github.com/user-attachments/assets/e4f243c2-a42c-4f2a-899f-4e1a954aab6a)
+## 🔧 How to Use
 
+1. Launch the application.
+2. Choose your engine: **Zapret** or **GoodbyeDPI**.
+3. Select your region 🌐 and configure DNS settings.
+4. Hit the button to start ▶️ or stop ⏹️ the process.
+5. Minimize the app to the system tray for easy access while you work.
 
+## 👨‍🔧 Auto-Start
 
-1. Запустите приложение.
-2. Выберите движок (zapret/goodbyeDPI)
-3. Выберите регион и настройки DNS.
-4. Нажмите кнопку для запуска или остановки процесса.
-5. Сверните приложение в системный трей
+To set GoodbyeDPI UI to launch automatically when your computer starts:
 
-## Автозапуск
+1. Open the application.
+2. Go to **Settings** ⚙️.
+3. Enable the **Auto-Start** option.
 
-Чтобы добавить приложение в автозапуск, выполните следующие шаги:
+## 🤝 Contributing
 
-1. Запустите приложение.
-2. В настройках приложения включите опцию автозапуска.
+We’re always open to contributions from the community! 💡 If you’ve got ideas or want to improve the project, feel free to open an **issue** or submit a **pull request**.
 
-## Установка шрифта
+## 💖 Acknowledgments
 
-Если у вас нет шрифта Nunito SemiBold, приложение автоматически установит его при первом запуске. Если вы все ещё видете стандартный шрифт, то выполните установку шрифта вручную 
+Big thxs to:
 
-## Вклад
+- **ValdikSS** for creating [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) 🙏.
+- **bol-van** for developing [Zapret](https://github.com/bol-van/zapret) 💡.
 
-Мы приветствуем вклад в развитие проекта! Если у вас есть идеи или предложения, пожалуйста, создайте issue или pull request.
+## ⚖️ License
 
-## Благодарности
+This project is licensed under the Apache 2.0 License. You can view the full license at:
 
-Особая благодарность ValdikSS за создание проекта GoodbyeDPI и bol-van за создание проекта Zapret
+    http://www.apache.org/licenses/LICENSE-2.0
+
+This software is distributed "AS IS", without any warranties or conditions of any kind. For more details, please refer to the full license text.
